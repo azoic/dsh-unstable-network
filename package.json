@@ -1,7 +1,16 @@
 {
-  "name": "@local/dsh-unstable-network",
-  "version": "1.2.1",
+  "name": "dsh-unstable-network",
+  "version": "1.0.0",
   "private": true,
+  "license": "MIT",
+  "author": "Amin Dashti (https://github.com/Azoic)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azoic/dsh-unstable-network.git"
+  },
+  "engines": {
+    "dsh": ">=0.2.2-rc.5 <0.3.0"
+  },
   "type": "module",
   "description": "Unstable-network resilience for the Harness host: tuned HTTP keep-alive, provider reachability probe, retry observability.",
   "exports": {

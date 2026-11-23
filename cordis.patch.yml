@@ -1,4 +1,4 @@
 - insert:
     - id: unstable-network
-      name: '@local/dsh-unstable-network'
+      name: 'dsh-unstable-network'
       config: {}
