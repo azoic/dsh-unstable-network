@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Unstable network resilience",
+    "description": "Keeps the Host-to-AI connection resilient on unstable links: a warmer HTTP keep-alive for back-to-back model requests, a provider reachability probe, failure logging, and live status via the unstable-network inspect provider.",
+    "detail": "docs/DETAIL.md"
+  }
+}
